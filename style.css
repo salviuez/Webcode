@@ -1,0 +1,69 @@
+.searchbox{
+    margin:5px;
+    border-radius: 3px;
+    height:20px;
+    width:400px;
+}
+.searchbutton{
+    background-color: darkmagenta;
+    border-color:aquamarine;
+    border-radius:2px;
+    height:35px;
+    width:150px;
+    border-style: solid;
+    color:antiquewhite;
+
+    
+}
+.searchbutton:hover{
+    background-color: red;
+    color:darkseagreen;
+    border-color: darkcyan;
+}
+#first{
+   margin:20px 20px;
+   font-size: 20px;
+   color:blueviolet;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#pages{
+   margin:20px 20px;
+   font-size: 20px;
+   color:blueviolet;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#authors{
+    margin:20px 20px;
+    font-size: 20px;
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+#pr{
+    margin:20px 20px;
+    font-size: 20px;
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+#characters{
+    margin:20px 20px;
+    font-size: 20px;
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
